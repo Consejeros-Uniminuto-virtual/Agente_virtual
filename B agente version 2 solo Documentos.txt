@@ -1,0 +1,1465 @@
+
+8. BASE DE CONOCIMIENTO
+La base de conocimiento contiene documentos completos de guías, reglamentos y procedimientos institucionales de UNIMINUTO. Cada documento sigue un formato estructurado:
+* Comienza con DOCUMENT_START y termina con DOCUMENT_END.
+* Incluye metadatos: ID, CATEGORIA, TIPO_INTENCION, CUANDO_USAR, PALABRAS_CLAVE y PRIORIDAD.
+* Contiene el texto íntegro del documento este texto no se entrega de manera íntegra. Se resume según especificaciones
+* Mantiene formato consistente para que la IA pueda extraer información precisa sin alterar contenido formal.
+Cómo buscar información:
+* Por ID para documentos específicos.
+* Por palabras clave en los metadatos o texto.
+* Por categoría o tipo de intención según la consulta.
+* Priorizar documentos con alta prioridad en caso de múltiples coincidencias.
+==================================================
+DOCUMENT_START
+ID: GUIA_REGLAMENTO_ESTUDIANTIL_339_2021
+CATEGORIA: Normativa institucional
+TIPO_INTENCION: Informacion directa
+CUANDO_USAR: Cuando el estudiante pregunte por reglamento estudiantil, normas institucionales, derechos y deberes, régimen disciplinario o Acuerdo 339 de 2021.
+PALABRAS_CLAVE: reglamento estudiantil, acuerdo 339, normas uniminuto, derechos del estudiante, deberes del estudiante, régimen de sanciones, reglamento 2021
+PRIORIDAD: Alta
+==================================================
+
+Guía para conocer el Reglamento Estudiantil UNIMINUTO (ACUERDO N° 339 DE 2021)
+Antes de iniciar
+El Reglamento Estudiantil aplica para:
+* Todos los estudiantes de programas de educación superior.
+* Programas no conducentes a título.
+* Todas las sedes de UNIMINUTO a nivel nacional.
+Este reglamento fue aprobado mediante el Acuerdo 339 del 26 de marzo de 2021, firmado por el Consejo de Fundadores de UNIMINUTO.
+El documento completo cuenta con 131 artículos. En esta guía conocerás sus generalidades, su importancia y los aspectos centrales de esta actualización.
+Paso 1. ¿Qué es el Reglamento Estudiantil?
+El Reglamento Estudiantil es la carta de navegación que orienta:
+* Los procesos de formación.
+* La vida académica de los estudiantes.
+* Los procedimientos académicos, administrativos y financieros.
+Acompaña al estudiante durante toda su trayectoria académica, que puede durar meses o varios años, según el programa cursado.
+Paso 2. ¿Por qué es importante conocer el Reglamento?
+Conocer el Reglamento es fundamental porque regula aspectos clave de tu vida universitaria, tales como:
+* Principios y fundamentos institucionales.
+* Derechos y deberes del estudiante.
+* Reconocimientos y beneficios.
+* Régimen de sanciones (en caso de presentarse).
+* Trámites y procesos académicos, administrativos y financieros.
+El Reglamento te permite actuar de forma informada, ágil y oportuna dentro de la institución.
+Paso 3. ¿Dónde consultar el Reglamento completo?
+Puedes consultar el documento completo y material complementario en:
+https://www.uniminuto.edu/reglamento-estudiantil-uniminuto 
+En este sitio encontrarás:
+* El texto completo del Reglamento Estudiantil.
+* 13 pódcast explicativos con los temas más relevantes para los estudiantes.
+Importante
+Leer el Reglamento te permitirá tomar mejores decisiones durante tu proceso académico.
+Ante cualquier inquietud, puedes consultar:
+* A tu consejero UNIMINUTO.
+* Los recursos disponibles en la página institucional.
+UNIMINUTO te acompaña en la construcción de tu proyecto de vida académico y profesional.
+==================================================
+DOCUMENT_END
+
+ID: GUIA_REGLAMENTO_ESTUDIANTIL_339_2021
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CAMBIO_CONTRASENA_INSTITUCIONAL
+CATEGORIA: Acceso y credenciales
+TIPO_INTENCION: Informacion directa
+CUANDO_USAR: Cuando el estudiante solicite cambiar su contraseña institucional, tenga problemas de acceso relacionados con contraseña vencida o requiera el procedimiento oficial de cambio de clave.
+PALABRAS_CLAVE: cambiar contraseña, cambio de clave, restablecer contraseña, tuclave, acceso aula virtual, problema de contraseña, actualizar contraseña
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para cambiar tu contraseña institucional en UNIMINUTO
+Antes de iniciar
+El cambio de contraseña aplica para todas las plataformas institucionales de UNIMINUTO.
+Después de realizar el cambio, deberás esperar 10 minutos para acceder nuevamente a:
+* Aula virtual
+* Génesis+
+* Correo institucional
+* Otras plataformas institucionales
+Asegúrate de tener acceso a tu correo institucional o celular, ya que uno de estos medios será utilizado para la verificación de identidad.
+Paso 1. Ingresa a la plataforma de cambio de contraseña
+Abre tu navegador de internet.
+Ingresa al siguiente link: https://tuclave.uniminuto.edu/ 
+Paso 2. Diligencia tus datos de acceso
+En la página principal, completa los campos solicitados:
+* En el primer recuadro, ingresa tu correo institucional.
+* En el siguiente espacio, escribe tu número de identificación, sin puntos ni espacios.
+Haz clic en el botón "Ingresar".
+Paso 3. Autentica tu identidad
+Una vez ingreses, visualizarás un recuadro con tu nombre.
+Para continuar, deberás autenticar tu identidad. Tienes dos opciones:
+* Autenticación por correo electrónico.
+* Autenticación por mensaje al celular.
+Selecciona la opción de tu preferencia y haz clic en "Enviar código".
+Paso 4. Valida el código de seguridad
+Ingresa en el recuadro el código de verificación que recibiste.
+Haz clic en el botón "Validar".
+Paso 5. Crea tu nueva contraseña
+En la nueva ventana, ingresa tu nueva contraseña teniendo en cuenta las siguientes condiciones:
+* Mínimo 8 caracteres.
+* Al menos un carácter especial (por ejemplo: +, @).
+* Al menos una letra en mayúscula.
+* No debe contener tu nombre ni apellido.
+Deberás ingresar la contraseña dos veces para su validación.
+Si deseas verificar los caracteres escritos, puedes utilizar la opción de visualización.
+Paso 6. Confirma el cambio de contraseña
+Una vez diligenciada la información, haz clic en "Cambiar contraseña".
+En la parte superior de la pantalla verás el mensaje de confirmación:
+"Cambiaste correctamente tu contraseña".
+Importante
+* Espera 10 minutos antes de intentar ingresar nuevamente a las plataformas institucionales.
+* Si presentas inconvenientes, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+* Recuerda cambiar tu contraseña periódicamente para mantener la seguridad de tu información.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CAMBIO_CONTRASENA_INSTITUCIONAL
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CONTRASENA_GENERICA_PRIMER_INGRESO
+CATEGORIA: Acceso y credenciales
+TIPO_INTENCION: Informacion directa
+CUANDO_USAR: Cuando el estudiante consulte por contraseña genérica, clave de primer ingreso, acceso inicial a plataformas institucionales o no conozca cómo construir su contraseña inicial.
+PALABRAS_CLAVE: contraseña genérica, clave inicial, primer ingreso, contraseña primer acceso, acceso por primera vez, clave temporal uniminuto
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para conocer tu contraseña genérica UNIMINUTO
+Antes de iniciar
+La contraseña genérica es asignada únicamente para tu primer ingreso a las plataformas institucionales de UNIMINUTO.
+Esta contraseña es temporal y debe ser modificada una vez accedas por primera vez.
+Paso 1. Identifica tu contraseña genérica
+La contraseña genérica se construye de la siguiente manera:
+* Primera letra de tu primer nombre en mayúscula
+* Segunda letra de tu primer nombre en minúscula
+* Los últimos seis (6) dígitos de tu documento de identificación
+Ejemplo
+Si tu nombre es Carlos y tu documento termina en 123456,
+tu contraseña genérica sería:
+Ca123456
+Paso 2. Ingresa por primera vez a las plataformas institucionales
+Utiliza tu correo institucional y la contraseña genérica para realizar el primer ingreso a las plataformas de UNIMINUTO.
+Paso 3. Cambia tu contraseña
+* Realiza el cambio de contraseña.
+* Elige una clave segura y fácil de recordar solo para ti.
+* Ingresa al siguiente link para cambiar la contraseña: https://tuclave.uniminuto.edu/
+Importante
+* La contraseña genérica solo funciona para el primer ingreso.
+* Es obligatorio cambiarla para garantizar la seguridad de tu información.
+* No compartas tus credenciales con terceros.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CONTRASENA_GENERICA_PRIMER_INGRESO
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CONSULTA_DESCARGA_PAGO_RECIBOS_PSE
+CATEGORIA: Pagos y facturación
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite información para consultar, descargar o pagar recibos de matrícula, educación continua o conceptos pecuniarios, especialmente mediante pago en línea por PSE.
+PALABRAS_CLAVE: pagar recibo, descargar recibo, pse, zona estudiantes, pago matrícula, recibo uniminuto, pagar online, conceptos pecuniarios, educación continua
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para consultar, descargar y pagar tus recibos vigentes por PSE en UNIMINUTO
+Antes de iniciar
+A través de este proceso podrás consultar, descargar y pagar tus recibos vigentes correspondientes a:
+* Matrícula
+* Educación continua
+* Conceptos pecuniarios
+Ten a la mano tus credenciales institucionales o tus datos personales según tu tipo de usuario.
+Paso 1. Accede a la página de UNIMINUTO
+Puedes ingresar a tus recibos desde cualquiera de estas opciones:
+* Ingresa desde tu navegador a: https://zonaestudiantes.uniminuto.edu/Contenido/Login/Login.aspx 
+* O ingresa a: www.uniminuto.edu
+Ubica en el banner central la opción "Descarga y paga tu recibo", luego selecciona "Descarga y paga ahora".
+Paso 2. Inicia sesión según tu tipo de usuario
+Si eres estudiante nuevo:
+* Selecciona Tipo de usuario: Nuevo.
+* Ingresa tu número de identificación.
+* Digita tu fecha de nacimiento.
+* Haz clic en "Login".
+Si eres estudiante antiguo:
+* Selecciona Tipo de usuario: Antiguo.
+* Ingresa tu correo institucional y contraseña.
+* Selecciona la opción "Login".
+Paso 3. Consulta tus recibos generados
+1. Una vez dentro del sistema, visualizarás tu información académica:
+o Nombre y apellido
+o Programa académico
+o Periodo y sede
+2. Desplázate hacia abajo y ubica el recuadro "Recibos generados".
+3. Haz clic en "Consultar".
+Allí podrás ver la información detallada del recibo:
+* Número de recibo
+* Concepto
+* Fecha
+* Valor
+* Opciones de PDF y Pago
+Paso 4. Descarga tu recibo de pago
+* En la columna PDF, selecciona el icono de descarga.
+* Se abrirá una nueva pestaña con el recibo.
+* Desde allí podrás guardar o imprimir el documento para pago en entidad bancaria si lo deseas.
+Paso 5. Realiza el pago en línea por PSE
+1. Ubica el recibo que deseas pagar.
+2. Selecciona el icono PSE.
+3. Aparecerá un cuadro de confirmación:
+o Haz clic en "Pagar online".
+o Luego selecciona "Pagar".
+4. Serás redirigido a la pasarela de pagos.
+Paso 6. Completa el pago en la pasarela
+1. Verifica que los datos del pago sean correctos.
+2. Desplázate hacia abajo y selecciona la opción PSE.
+3. Marca la casilla de verificación.
+4. Selecciona tu entidad bancaria de la lista.
+5. Haz clic en Continuar.
+6. Serás dirigido a la página de PSE:
+o Inicia sesión con tus credenciales bancarias.
+o Si es tu primera vez, deberás registrarte.
+7. Selecciona Ir al banco y completa la transacción.
+Una vez el pago sea exitoso, el sistema confirmará la operación.
+Importante
+* Realiza este proceso desde un dispositivo personal y confiable.
+* Protege siempre tu información personal y bancaria.
+* Conserva el comprobante de pago como soporte.
+* En caso de inconvenientes, puedes solicitar acompañamiento institucional.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CONSULTA_DESCARGA_PAGO_RECIBOS_PSE
+==================================================
+
+
+==================================================
+DOCUMENT_START
+ID: GUIA_POSTULACION_AUXILIOS_SOCIOECONOMICOS
+CATEGORIA: Apoyos financieros y bienestar estudiantil
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite información para postularse a auxilios socioeconómicos, apoyos económicos institucionales o beneficios por condición de vulnerabilidad.
+PALABRAS_CLAVE: auxilio socioeconómico, apoyo económico, postulación auxilio, promoción socioeconómica, servicio social, convocatoria auxilios, beneficios económicos uniminuto
+PRIORIDAD: Alta
+==================================================
+
+Postulación a los auxilios socioeconómicos
+Para realizar tu postulación a los auxilios socioeconómicos, ingresa desde tu navegador al siguiente enlace del área de Promoción Socioeconómica: https://virtual.uniminuto.edu/estudiantes/auxilios-socioeconomicos/ 
+
+Una vez en la página:
+1. Lee atentamente las fechas de la convocatoria y los períodos a los cuales aplica.
+2. Lee atentamente los términos y condiciones.
+3. Desplaza el cursor hacia abajo.
+4. Selecciona la opción "Postúlate aquí" para iniciar el proceso.
+Ten en cuenta las siguientes condiciones para postularte:
+* Debes haber cursado y aprobado al menos un periodo académico en el programa en el que estés matriculado.
+* Si cuentas con crédito educativo con la Cooperativa Minuto de Dios, debes estar al día.
+* Tu promedio académico debe ser igual o superior a 3.8, sin pérdida de asignaturas en el último periodo o semestre cursado.
+* No debes tener sanciones disciplinarias.
+* Debes contar con disponibilidad para entrevistas o visitas domiciliarias.
+* Debes tener disponibilidad horaria para prestar el servicio social, de forma virtual o presencial.
+El proceso de postulación solo puede realizarse a través del enlace autorizado. Allí deberás cargar todos los documentos solicitados.
+Documentos obligatorios (en formato PDF)
+1. Carta de solicitud, donde describas las razones por las cuales necesitas el auxilio socioeconómico, firmada y dirigida al Rector de UNIMINUTO Virtual, ingeniero Javier Alonso Arango.
+2. Recibo de servicio público (agua o luz), no mayor a 30 días, donde se evidencie la dirección y el estrato socioeconómico de la vivienda.
+3. Fotografías de la vivienda:
+o Fachada de la casa (donde se vea la dirección).
+o Cocina.
+o Habitación.
+4. Certificado de afiliación a salud (EPS), contributiva o subsidiada, con fecha de expedición no mayor a 30 días.
+o Este documento debe adjuntarse incluso si no estás afiliado actualmente.
+o En caso de no estar afiliado, adjunta una captura de pantalla del ADRES donde se evidencie tu estado.
+5. Certificado laboral:
+o Si estás trabajando, adjunta tu certificado laboral.
+o Si no trabajas, adjunta el certificado laboral de la persona que te apoya económicamente.
+o La expedición no debe ser mayor a 30 días (si aplica).
+6. Si eres becario, debes presentar el cumplimiento del 100 % de las horas de servicio social.
+Documentación adicional según condición de vulnerabilidad
+* Padre o madre cabeza de familia: carta donde manifiestes tu condición, indicando nombres y edades de tus hijos.
+* Persona desempleada: carta aclaratoria indicando que te encuentras desempleado, con el nombre de la empresa y la fecha de finalización de tu último empleo, firmada y con tus datos personales.
+o Alternativamente, puedes anexar el certificado de terminación de contrato, si aplica.
+* Víctima del conflicto armado: certificado emitido por el Centro de Víctimas.
+* Población étnica: certificado emitido por el Ministerio del Interior que acredite tu pertenencia a un grupo étnico.
+* Discapacidad o enfermedad crónica (propia o de un familiar del núcleo primario): certificación médica no mayor a 60 días o certificado de discapacidad expedido por la EPS.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_POSTULACION_AUXILIOS_SOCIOECONOMICOS
+==================================================
+
+
+
+==================================================
+DOCUMENT_START
+ID: GUIA_GENERACION_RECIBOS_MULTIPLES_MEDIOS_PAGO
+CATEGORIA: Pagos y facturación
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante necesite generar recibos de matrícula utilizando financiación, combinación de medios de pago o dividir el valor total en varios recibos dentro de Zona de Estudiantes.
+PALABRAS_CLAVE: generar recibo, dividir matrícula, combinación medios de pago, financiación cooperativa, coop uniminuto, recibos múltiples, zona estudiantes matrícula
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para generar recibos con distintos medios de pago en UNIMINUTO
+Antes de iniciar
+La plataforma Zona de Estudiantes UNIMINUTO te permite generar recibos de matrícula utilizando uno o varios medios de pago.
+Antes de comenzar, ten en cuenta:
+* Debes contar con tu correo y contraseña institucional.
+* El valor total de la matrícula puede dividirse en varios recibos, según el medio de pago seleccionado.
+* Los recibos generados podrán descargarse o pagarse en línea desde la plataforma.
+Paso 1. Ingresa a Zona de Estudiantes
+* Abre tu navegador de internet.
+* Ingresa a: https://zonaestudiantes.uniminuto.edu
+* Selecciona tu tipo de usuario.
+o Para este caso, elige Usuario antiguo.
+* Ingresa tu correo institucional y contraseña.
+* Haz clic en Ingresar.
+Paso 2. Accede al módulo de matrícula
+* Una vez dentro de la plataforma, ubica el recuadro Matrículas.
+* Selecciona el programa académico inscrito al que deseas ingresar.
+Paso 3. Genera el recibo con financiación (Cooperativa UNIMINUTO)
+Si deseas realizar parte del pago con la Cooperativa UNIMINUTO u otro medio de financiación:
+* Ingresa al recuadro Financiación.
+* En el campo Entidad, selecciona Coop UNIMINUTO.
+* Marca la opción Parcial.
+* En el apartado Ingresar financiación por, selecciona Valor.
+* Digita el valor a financiar.
+* En Combinación de medios de pago, selecciona No.
+* Haz clic en Generar recibo.
+El sistema mostrará algunas recomendaciones:
+* Léelas cuidadosamente.
+* Haz clic nuevamente en Generar.
+El recibo quedará disponible en la opción Recibos generados, donde podrás descargarlo o pagarlo.
+Importante:
+Una vez realizado este pago, debes conservar el comprobante de pago y el recibo, ya que serán necesarios para solicitar la financiación del valor faltante ante la Cooperativa.
+Paso 4. Genera recibos con combinación de medios de pago
+Para realizar el pago del valor restante utilizando cheque, cesantías u otros medios:
+* Ingresa nuevamente al recuadro Financiación.
+* En Entidad, selecciona Coop UNIMINUTO.
+* Marca la opción No
+* En Combinación de medios de pago, selecciona Sí.
+A continuación:
+* Ingresa el valor a pagar según el método de tu preferencia.
+* Las opciones disponibles pueden incluir:
+o Tarjeta de crédito.
+o Tarjeta débito.
+o Cheque.
+Ten en cuenta:
+* Los pagos con cheque solo se reciben en las sedes donde UNIMINUTO tenga caja habilitada.
+Para este ejemplo:
+* Selecciona Cheque.
+* Ingresa el valor correspondiente.
+* Haz clic en Generar recibo.
+* Lee las recomendaciones y vuelve a seleccionar Generar.
+Paso 5. Genera el segundo recibo por el valor restante
+Para completar el valor total de la matrícula:
+* Repite el proceso de Financiación.
+* En Combinación de medios de pago, ingresa el valor restante.
+* Asegúrate de que entre los dos recibos se complete el 100 % del valor de la matrícula.
+Para este caso:
+* Selecciona Tarjeta débito.
+* Ingresa el valor correspondiente.
+* Haz clic en Generar recibo.
+Paso 6. Descarga o paga los recibos generados
+* Dirígete al recuadro Recibos generados.
+* Allí podrás:
+o Descargar los recibos.
+o Realizar el pago en línea.
+o Consultar el estado de los pagos realizados.
+Importante
+* Verifica siempre los valores antes de generar cada recibo.
+* Conserva los comprobantes de pago.
+* Realiza el proceso desde un dispositivo personal y confiable para proteger tu información.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_GENERACION_RECIBOS_MULTIPLES_MEDIOS_PAGO
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CANCELACION_PERIODO_ACADEMICO
+CATEGORIA: Trámites académicos
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite información para cancelar el período académico, retirarse del semestre o radicar solicitud de cancelación en Génesis+.
+PALABRAS_CLAVE: cancelación de semestre, cancelar periodo, retiro académico, cancelar matrícula, génesis+, solicitud cancelación periodo
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar cancelación del período académico en UNIMINUTO
+Antes de iniciar
+* Ten en cuenta que, una vez radicada y aprobada la cancelación del período académico, la decisión no puede revertirse.
+* Se recomienda realizar este proceso con el acompañamiento de tu consejero de Éxito Estudiantil.
+* Verifica que estás dentro de los plazos establecidos en el calendario académico.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud de cancelación de período
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Cancelación de período.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información requerida
+1. Selecciona el período académico que deseas cancelar.
+2. Elige el programa académico correspondiente.
+3. Selecciona el motivo de la cancelación.
+4. Verifica que la información esté correcta.
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud de cancelación del período académico quedará radicada para su validación.
+Importante
+* La aprobación de la solicitud se realizará conforme al Reglamento Estudiantil de UNIMINUTO.
+* Recuerda consultar tu calendario académico para no exceder las fechas permitidas.
+* Si tienes dudas durante el proceso, puedes apoyarte en tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CANCELACION_PERIODO_ACADEMICO
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CONSULTA_CALIFICACIONES_DEFINITIVAS_GENESIS
+CATEGORIA: Gestión académica
+TIPO_INTENCION: Informacion directa
+CUANDO_USAR: Cuando el estudiante consulte cómo ver sus notas finales, calificaciones definitivas, promedio académico o resultados publicados en Génesis+.
+PALABRAS_CLAVE: ver notas, consultar calificaciones, promedio académico, notas finales, génesis+, calificaciones definitivas uniminuto
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para para consultar las calificaciones definitivas en Génesis+ UNIMINUTO
+Antes de iniciar
+* Las fechas de publicación de calificaciones están definidas en el calendario académico.
+* Si no visualizas tus calificaciones, verifica que el período ya haya finalizado o que las notas hayan sido oficialmente publicadas.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a la opción Ver calificaciones
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Ver calificaciones”
+2. Haz clic para ingresar.
+Paso 4. Selecciona el período y nivel
+1. Selecciona el período académico en el que te encuentras matriculado.
+2. Selecciona el nivel del curso.
+3. El sistema desplegará automáticamente la información correspondiente a tus calificaciones.
+Paso 5. Interpreta la información de tus calificaciones
+1. En el recuadro superior, podrás visualizar:
+o Tu promedio general académico.
+2. En el costado derecho, encontrarás:
+o Nivel
+o Período académico
+o Programa que estás cursando.
+3. En la parte inferior, se muestra una tabla con información detallada, donde podrás consultar:
+o Asignatura
+o Calificación final
+o Horas ganadas (créditos aprobados)
+o Otros datos relacionados con tu proceso académico.
+Paso 6. Consulta información adicional
+* Si deseas ampliar el detalle de tus calificaciones, puedes hacerlo ingresando a tu aula virtual, donde encontrarás las evidencias y actividades evaluadas por asignatura.
+Importante
+* Realiza seguimiento frecuente a tus calificaciones para conocer el avance de tu proceso académico.
+* Ante cualquier inquietud, puedes solicitar orientación a tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CONSULTA_CALIFICACIONES_DEFINITIVAS_GENESIS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_MODIFICACION_CALIFICACION_DEFINITIVA_GENESIS
+CATEGORIA: Trámites académicos
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite corregir, modificar o reportar inconsistencia en una calificación definitiva en Génesis+.
+PALABRAS_CLAVE: modificar nota, corregir calificación, error en nota, modificación calificación definitiva, reclamación nota, génesis+
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar la modificación de una calificación definitiva en Génesis+ UNIMINUTO
+Antes de iniciar
+* Esta solicitud aplica cuando el estudiante considera que existe una inconsistencia en una calificación definitiva.
+* Es importante diligenciar correctamente el motivo y las observaciones, ya que estos serán insumo para la validación académica.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud de modificación de calificación
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Modificación de calificación definitiva.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período académico correspondiente.
+2. Elige el programa académico.
+3. Selecciona el curso o materia al cual deseas solicitar la modificación.
+o Si el curso no aparece, presiona F5 para actualizar la página.
+4. En el campo Sede del programa, selecciona:
+o COA Virtual.
+5. Elige la razón de la solicitud.
+6. En el campo de observaciones, escribe de forma clara la información relacionada con el proceso.
+Paso 6. Guarda la solicitud
+1. Verifica que todos los campos estén correctamente diligenciados.
+2. Haz clic en “Guardar”.
+3. Con este paso, tu solicitud quedará radicada correctamente en el sistema.
+Paso 7. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. En la nueva ventana, haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás consultar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La respuesta se gestionará conforme al Reglamento Estudiantil de UNIMINUTO.
+* Ante dudas adicionales, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_MODIFICACION_CALIFICACION_DEFINITIVA_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_CONTENIDOS_PROGRAMATICOS_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite el certificado de contenidos programáticos, programas de asignatura o certificación de cursos aprobados en Génesis+.
+PALABRAS_CLAVE: certificado contenidos programáticos, certificación programas de asignatura, certificado materias aprobadas, génesis+, solicitar certificado académico
+PRIORIDAD: Media
+==================================================
+
+Paso a paso para solicitar el certificado de contenidos programáticos en Génesis+ UNIMINUTO
+Antes de iniciar
+* Este certificado relaciona los contenidos programáticos de los cursos aprobados.
+* Solo se generan certificados de cursos que hayan sido pagados.
+* Es importante diligenciar correctamente la información y no dejar campos en blanco.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificación de contenidos programáticos.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período académico cursado.
+2. Elige el programa académico.
+3. Indica el número de cursos a certificar.
+o Recuerda que solo se certificarán los cursos pagados.
+4. En los campos siguientes, selecciona el nombre de cada curso, teniendo en cuenta el número indicado.
+o Diligencia los cursos en orden.
+o No dejes casillas en blanco entre los cursos seleccionados.
+Paso 6. Guarda la solicitud
+1. Verifica que toda la información esté completa y correcta.
+2. Haz clic en “Guardar”.
+3. Con este paso, tu solicitud del certificado de contenidos programáticos quedará radicada.
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+Importante
+Revisa periódicamente el estatus de tu solicitud para conocer su avance, estando atento a la generación del recibo de pago el cual llegará a tu correo institucional
+* La expedición del certificado se realizará conforme a los tiempos institucionales.
+* Ante cualquier inquietud, puedes solicitar orientación a tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_CONTENIDOS_PROGRAMATICOS_GENESIS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_NOTAS_COMPLETAS_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite el certificado de notas completas, historial académico oficial o registro completo de calificaciones en Génesis+.
+PALABRAS_CLAVE: certificado notas completas, historial académico, certificación calificaciones, récord académico, génesis+, solicitar certificado notas
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de notas completas en Génesis+ UNIMINUTO
+Antes de iniciar
+* Este certificado contiene el registro completo de las calificaciones del estudiante.
+* Ten en cuenta que la solicitud genera un recibo de pago, el cual será enviado a tu correo institucional.
+* Revisa también las carpetas de spam o correo no deseado, ya que el mensaje puede llegar allí.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificación de notas completas.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+1. Indica el último período cursado o el período específico del cual requieres la nota completa.
+2. Selecciona el programa académico correspondiente.
+3. Verifica que la información esté correcta.
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud del certificado de notas completas quedará radicada en el sistema.
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La expedición del certificado se realizará conforme a los tiempos institucionales.
+* Si tienes inquietudes adicionales, puedes solicitar orientación a tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_NOTAS_COMPLETAS_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_GRADO_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite el certificado de grado, constancia de postulación a grado o certificación relacionada con su proceso de graduación en Génesis+.
+PALABRAS_CLAVE: certificado de grado, certificación de grado, constancia de grado, postulación a grado, génesis+, certificado graduación
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de grado en Génesis+ UNIMINUTO
+Antes de iniciar
+Para generar el certificado de grado, debes cumplir con las siguientes condiciones:
+* Estar postulado a grado.
+* Contar con paz y salvo académico.
+* Haber cumplido el plan de estudios, de acuerdo con las fechas del proceso de grado.
+Si no cumples estas condiciones, el sistema no permitirá la generación del certificado.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificación de grado.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período cursado.
+2. Elige el programa académico correspondiente.
+3. Verifica que la información esté correcta.
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud del certificado de grado quedará radicada en el sistema.
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La expedición del certificado se realizará conforme a los tiempos institucionales.
+* Si tienes inquietudes adicionales, puedes solicitar orientación a tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_GRADO_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_REINGRESO_ACADEMICO_GENESIS
+CATEGORIA: Trámites académicos
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite información para realizar reingreso académico por retiro voluntario o falta disciplinaria a través de Génesis+.
+PALABRAS_CLAVE: reingreso académico, volver a estudiar, reactivar matrícula, retiro voluntario, falta disciplinaria, génesis+, solicitud reingreso
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el reingreso académico en Génesis+ UNIMINUTO
+Antes de iniciar
+* El reingreso académico aplica para estudiantes que se retiraron por retiro voluntario o falta disciplinaria
+* Verifica que el período al que deseas ingresar sea el período académico vigente.
+* Es importante describir claramente el motivo del reingreso, ya que este será evaluado por el área correspondiente.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Reingreso por retiro voluntario o falta disciplinaria.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período académico al cual deseas ingresar.
+o Verifica que corresponda al período vigente.
+2. Elige el programa académico.
+3. En el campo de observaciones, escribe el motivo de tu solicitud de reingreso.
+4. Verifica que la información esté completa y correcta.
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud de reingreso académico quedará radicada en el sistema.
+Paso 7. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás consultar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La aprobación del reingreso se realiza conforme al Reglamento Estudiantil de UNIMINUTO.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_REINGRESO_ACADEMICO_GENESIS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_TRANSFERENCIA_INTERNA_GENESIS
+CATEGORIA: Trámites académicos
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante solicite cambio de programa académico, cambio de sede o transferencia interna dentro de UNIMINUTO a través de Génesis+.
+PALABRAS_CLAVE: transferencia interna, cambio de programa, cambio de sede, traslado interno, cambiar carrera uniminuto, génesis+
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar la transferencia interna en Génesis+ UNIMINUTO
+Antes de iniciar
+* La transferencia interna aplica para estudiantes que desean cambiar de programa académico o de sede dentro de UNIMINUTO.
+* Verifica que el período al que deseas ingresar sea el período académico vigente.
+* Es importante diligenciar correctamente la sede de destino, el programa de origen y el programa de destino.
+* Describe de manera clara y respetuosa la razón de la solicitud, ya que esta será evaluada por el área correspondiente.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud de cancelación de período
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Transferencia interna.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+* Selecciona el período académico al cual deseas ingresar.
+* Elige la sede de destino.
+* Selecciona el programa de destino.
+* Selecciona el programa de origen.
+* En el campo de observaciones, escribe la razón de tu solicitud de transferencia interna.
+* Verifica que la información esté completa y correcta.
+Paso 6. Guarda la solicitud
+* Haz clic en “Guardar”.
+* Con este paso, tu solicitud de transferencia interna quedará radicada en el sistema.
+Paso 7. Consulta el estado de tu solicitud
+* Regresa al tablero de servicios para estudiantes.
+* Ingresa nuevamente a “Solicitudes de servicios académicos”.
+* Haz clic en la flecha de retorno, ubicada en la parte superior izquierda.
+* Selecciona la opción:
+“Ver estatus de solicitud de servicio”.
+* Allí podrás consultar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La aprobación de la transferencia interna se realiza conforme al Reglamento Estudiantil de UNIMINUTO.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_TRANSFERENCIA_INTERNA_GENESIS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_NOTAS_PERIODO_GENESIS_V2
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante consulte cómo solicitar el certificado de notas de un período específico, cómo pagar el recibo correspondiente o cómo hacer seguimiento a la solicitud en Génesis+.
+PALABRAS_CLAVE: certificado de notas, certificado calificaciones periodo, certificación académica, notas por semestre, solicitar certificado génesis
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de notas de un período en Génesis+ UNIMINUTO
+Antes de iniciar
+* El certificado de notas de un período permite consultar y certificar las calificaciones obtenidas en un período académico específico.
+* Verifica previamente el período académico del cual deseas solicitar el certificado.
+* El recibo de pago se generará posterior a la solicitud y llegará a tu correo institucional.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificado de notas de un período.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+* Selecciona el período académico que deseas certificar.
+* Selecciona el programa académico correspondiente.
+* Verifica que la información diligenciada sea correcta y completa.
+Paso 6. Guarda la solicitud
+* Haz clic en “Guardar”.
+* Con este paso, tu solicitud del certificado de notas de un período quedará radicada en el sistema.
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+* Una vez realices el pago, el certificado solicitado será enviado a tu correo institucional dentro del tiempo establecido.
+Paso 8. Consulta el estado de tu solicitud
+* Regresa al tablero de servicios para estudiantes.
+* Ingresa nuevamente a “Solicitudes de servicios académicos”.
+* Haz clic en la flecha de retorno, ubicada en la parte superior izquierda.
+* Selecciona la opción:
+“Ver estatus de solicitud de servicio”.
+* Allí podrás consultar el estado de todas tus solicitudes.
+Importante
+* El recibo de pago llegará a tu correo institucional una vez transcurridas 24 horas hábiles desde la radicación de la solicitud.
+* Revisa periódicamente el estatus de la solicitud para conocer su avance.
+* La expedición del certificado se realiza conforme a los lineamientos institucionales de UNIMINUTO.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_NOTAS_PERIODO_GENESIS_V2
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_INGRESO_PLATAFORMA_GENESIS_PLUS
+CATEGORIA: Plataformas institucionales
+TIPO_INTENCION: Informativa-Transaccional
+CUANDO_USAR: Cuando el estudiante consulte cómo ingresar a Génesis+, cómo iniciar sesión o qué funcionalidades tiene disponibles dentro del tablero de servicios para estudiantes.
+PALABRAS_CLAVE: ingresar génesis+, iniciar sesión génesis, plataforma génesis uniminuto, acceso estudiantes, tablero servicios estudiante
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para ingresar a la plataforma Génesis+ UNIMINUTO
+Antes de iniciar
+* Génesis+ es la plataforma institucional donde podrás gestionar tus servicios académicos, certificaciones, inscripción de materias y proceso de grado.
+* Asegúrate de contar con tus credenciales institucionales activas.
+* Es fundamental ingresar siempre desde el perfil correcto: Estudiantes.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Conoce el tablero de servicios para estudiantes
+Una vez ingreses, estarás en el tablero de servicios para estudiantes. Desde este espacio podrás gestionar diferentes trámites académicos. A continuación, te explicamos cada una de las opciones disponibles:
+Opción 1. Actualiza tu contraseña
+* Permite modificar tu clave de acceso.
+* Aplica para las diferentes plataformas académicas institucionales.
+Opción 2. Actualización de datos personales
+* Podrás actualizar información como:
+o Número de contacto
+o Correo personal
+o Dirección
+o Otros datos personales
+o Mantener esta información actualizada es clave para una comunicación efectiva.
+Opción 3. Evaluación de docente por estudiante
+* Aquí encontrarás la encuesta para evaluar la gestión de tus docentes.
+* Esta opción solo estará habilitada en momentos específicos del período académico.
+Opción 4. Ver calificaciones
+* Permite consultar y hacer seguimiento a tus notas por asignatura.
+* Podrás revisar tu desempeño académico durante el período.
+Opción 5. Solicitudes de servicios académicos
+Desde esta opción podrás gestionar trámites agrupados en dos categorías:
+* Solicitudes de servicio
+* Certificaciones
+Opción 6. Perfil de alumno
+Visualiza tu información académica y personal, como:
+o Datos biográficos
+o Inscripción de materias
+o Horario del alumno
+o Información de graduación
+o Currículo y cursos
+o Otros datos generales
+Opción 7. Postulación a grados
+* Disponible cuando cumplas con todos los requisitos académicos.
+* Desde aquí iniciarás formalmente tu proceso de grado.
+Opción 8. Cargue de documentos para grado
+* Permite subir los documentos requeridos para el proceso de grado.
+* Ten en cuenta que solo podrás realizar este paso 24 horas después de haber realizado la postulación a grados.
+Importante
+* Revisa periódicamente Génesis+ para mantenerte al día con tus procesos académicos.
+* Toda la comunicación institucional se realiza a través del correo institucional.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_INGRESO_PLATAFORMA_GENESIS_PLUS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_SOLICITUD_CREDITOS_ADICIONALES_GENESIS
+CATEGORIA: Trámites académicos
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante consulte cómo solicitar créditos adicionales, ampliar carga académica o cursar más créditos de los permitidos en el período académico a través de Génesis+.
+PALABRAS_CLAVE: créditos adicionales, ampliar créditos, aumentar carga académica, solicitar más materias, génesis+, carga académica extra
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar créditos adicionales en Génesis+ UNIMINUTO
+Antes de iniciar
+* La solicitud de créditos adicionales permite cursar más créditos de los establecidos para el período académico (hasta 4 créditos académicos adicionales).
+* Verifica que estás dentro de los plazos establecidos en el calendario académico.
+* La habilitación de los créditos está sujeta a aprobación y al pago del recibo generado.
+* El recibo de pago será enviado al correo institucional registrado.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+Paso 4. Crea la solicitud de créditos adicionales
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Créditos adicionales.
+2. Haz clic en “Continuar”.
+Paso 5. Diligencia la información de la solicitud
+* Selecciona el período académico.
+* Elige el programa académico.
+* Indica la cantidad de créditos adicionales que deseas solicitar.
+* Verifica que la información esté completa y correcta.
+Paso 6. Guarda la solicitud
+* Haz clic en “Guardar”.
+* Con este paso, tu solicitud de créditos adicionales quedará radicada en el sistema.
+Paso 7. Revisa el recibo de pago
+* Después de realizar la solicitud, revisa tu correo institucional.
+* Allí recibirás el recibo de pago correspondiente a los créditos solicitados.
+* Una vez realices el pago y este sea validado, los créditos adicionales se habilitarán.
+Paso 8. Consulta el estado de tu solicitud
+* Regresa al tablero de servicios para estudiantes.
+* Ingresa nuevamente a “Solicitudes de servicios académicos”.
+* Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+* Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+* Allí podrás consultar el estado de todas tus solicitudes.
+Importante
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* La habilitación de los créditos depende de la aprobación y validación del pago.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_SOLICITUD_CREDITOS_ADICIONALES_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_ACTUALIZACION_DATOS_PERSONALES_GENESIS
+CATEGORIA: Gestión de datos personales
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante consulte cómo actualizar su información personal, datos de contacto o información biográfica en Génesis+.
+PALABRAS_CLAVE: actualizar datos personales, cambiar correo alterno, actualizar teléfono, cambiar dirección, datos estudiante génesis+
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para actualizar tus datos personales en Génesis+ UNIMINUTO
+Antes de iniciar
+* Mantener tus datos personales actualizados es fundamental para una comunicación efectiva con la institución.
+* La información registrada en Génesis+ es utilizada para notificaciones académicas, administrativas y de grado.
+* Verifica cuidadosamente los datos antes de guardarlos.
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+Paso 3. Accede a la opción de actualización de datos personales
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Actualización de datos personales”
+2. Haz clic para ingresar.
+Paso 4. Edita tu información personal
+* Se habilitará una nueva página con tus datos personales.
+* Desde este espacio podrás editar información como:
+o Estado civil
+o Correo electrónico alterno
+o Número de teléfono
+o Dirección
+o Otros datos personales
+* Para editar un dato:
+o Haz clic en el icono del lápiz.
+* Para añadir información nueva:
+o Selecciona la opción “Agregar nueva”.
+Paso 5. Guarda los cambios
+* Una vez hayas realizado las modificaciones necesarias, haz clic en “Actualizar”.
+* El sistema mostrará un mensaje emergente indicando:
+o “Guardado con éxito”.
+Este mensaje confirma que el proceso se realizó correctamente.
+Importante
+* Verifica que la información registrada sea correcta y esté completa.
+* Cualquier comunicación institucional se realizará con base en los datos que tengas actualizados en Génesis+.
+* Si presentas inconvenientes, puedes solicitar apoyo a tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_ACTUALIZACION_DATOS_PERSONALES_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CUARTO_MEDIA_MATRICULA_GENESIS
+CATEGORIA: Inscripción académica
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante desee solicitar cuarto de matrícula o media matrícula para un período académico específico.
+PALABRAS_CLAVE: cuarto matrícula, media matrícula, inscripción parcial, créditos adicionales, génesis+
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar cuarto de matrícula o media matrícula en Génesis+ UNIMINUTO
+Antes de iniciar
+* Cuarto de matrícula: Esta solicitud aplica exclusivamente para estudiantes que tengan pendientes hasta cuatro (4) créditos académicos para culminar su programa.
+* Media matrícula: Esta solicitud aplica para estudiantes que requieran inscribir hasta el cincuenta por ciento (50%) de los créditos académicos permitidos en la ruta académica sugerida para el respectivo período académico.
+* Aplica para programas de pregrado y posgrado.
+* Es importante verificar que el período seleccionado corresponda al período académico correcto.
+* Verifica que estás dentro de los plazos establecidos en el calendario académico.
+* La habilitación del cuarto o media matrícula está sujeta a aprobación y al pago del recibo generado.
+* El recibo de pago será enviado al correo institucional registrado.
+
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+
+Paso 4. Crea la solicitud de cuarto o media matrícula
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Solicitud de servicio.
+o Servicio: Selecciona Cuarto de matrícula o Media matrícula, según corresponda de acuerdo con el reglamento estudiantil.
+2. Haz clic en “Continuar”.
+
+Paso 5. Diligencia la información de la solicitud
+* Selecciona el período académico.
+* Elige el programa académico al cual se aplicará el cuarto o media matrícula.
+* En el campo de observaciones, escribe el motivo de tu solicitud.
+* Verifica que la información esté completa y correcta.
+
+Paso 6. Guarda la solicitud
+* Haz clic en “Guardar”.
+* Con este paso, la solicitud quedará radicada en el sistema.
+
+Paso 7. Consulta el estado de tu solicitud
+* Regresa al tablero de servicios para estudiantes.
+* Ingresa nuevamente a “Solicitudes de servicios académicos”.
+* Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+* Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+* Allí podrás consultar el estado de todas tus solicitudes.
+
+Importante
+* Esta solicitud está sujeta a verificación y aprobación por parte del área correspondiente.
+* Revisa periódicamente el estatus de tu solicitud.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CUARTO_MEDIA_MATRICULA_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_ESTUDIO_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante desee solicitar un certificado de estudio para acreditar su condición académica en un período determinado.
+PALABRAS_CLAVE: certificado de estudio, génesis+, certificado académico, validación académica
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de estudio en Génesis+ UNIMINUTO
+Antes de iniciar
+* El certificado de estudio acredita tu condición académica en un período determinado.
+* Verifica que el período y programa académico seleccionados correspondan a la información que necesitas certificar.
+* La solicitud está sujeta a validación institucional.
+* Ten en cuenta que la solicitud genera un recibo de pago, el cual será enviado a tu correo institucional.
+
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificación de estudio.
+2. Haz clic en “Continuar”.
+
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período académico a certificar.
+2. Selecciona el programa académico correspondiente.
+3. Verifica que la información esté completa y correcta.
+
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud del certificado de estudio quedará radicada en el sistema.
+
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+* Una vez realices el pago, el certificado solicitado será enviado a tu correo institucional dentro del tiempo establecido.
+
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+
+Importante
+* El recibo de pago llegará a tu correo institucional una vez transcurridas 24 horas hábiles desde la radicación de la solicitud.
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* El certificado será emitido conforme a los tiempos establecidos por la institución.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_ESTUDIO_GENESIS
+==================================================
+
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_BUENA_CONDUCTA_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante desee solicitar un certificado de buena conducta para acreditar que no presenta sanciones disciplinarias vigentes.
+PALABRAS_CLAVE: certificado de buena conducta, génesis+, certificación disciplinaria, validación académica
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de buena conducta en Génesis+ UNIMINUTO
+Antes de iniciar
+* El certificado de buena conducta acredita que no presentas sanciones disciplinarias vigentes.
+* Este certificado tiene costo, por lo que se generará un recibo de pago después de realizar la solicitud.
+* Verifica que el período y programa académico seleccionados sean correctos.
+
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificado de buena conducta.
+2. Haz clic en “Continuar”.
+
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el período académico a certificar.
+2. Selecciona el programa académico correspondiente.
+3. Verifica que la información esté completa y correcta.
+
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud del certificado de buena conducta quedará radicada en el sistema.
+
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+* Una vez realices el pago, el certificado de buena conducta será enviado a tu correo institucional dentro del tiempo establecido.
+
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+
+Importante
+* El recibo de pago llegará a tu correo institucional una vez transcurridas 24 horas hábiles desde la radicación de la solicitud.
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* El certificado será emitido conforme a los tiempos establecidos por la institución.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_BUENA_CONDUCTA_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_CERTIFICADO_TERMINACION_CURSOS_GENESIS
+CATEGORIA: Certificaciones académicas
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante desee solicitar un certificado de terminación de cursos – Solo falta grado, acreditando que completó la totalidad de los cursos del plan de estudios y únicamente está pendiente del proceso de grado.
+PALABRAS_CLAVE: certificado de terminación de cursos, solo falta grado, génesis+, validación académica, postulado a grado
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para solicitar el certificado de terminación de cursos (Solo falta grado) en Génesis+ UNIMINUTO
+
+Antes de iniciar
+* Este certificado acredita que culminaste la totalidad de los cursos del plan de estudios y que únicamente estás pendiente del proceso de grado.
+* Para realizar esta solicitud debes cumplir con los siguientes requisitos:
+  * Estar postulado a grado.
+  * Contar con paz y salvo académico del programa.
+* Este certificado tiene costo, por lo que se generará un recibo de pago después de realizar la solicitud.
+* Verifica que el período y programa académico seleccionados sean correctos.
+
+Paso 1. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+
+Paso 2. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+
+Paso 3. Accede a las solicitudes de servicio académicas
+1. En el tablero de servicios para estudiantes, busca la opción:
+o “Solicitudes de servicios”
+2. Haz clic para ingresar.
+
+Paso 4. Crea la solicitud del certificado
+1. En la nueva ventana, diligencia los campos iniciales:
+o Categoría: Selecciona Certificaciones.
+o Servicio: Selecciona Certificado de terminación de cursos – Solo falta grado.
+2. Haz clic en “Continuar”.
+
+Paso 5. Diligencia la información de la solicitud
+1. Selecciona el último período académico cursado del programa.
+2. Selecciona el programa académico correspondiente.
+3. Verifica que la información esté completa y correcta.
+
+Paso 6. Guarda la solicitud
+1. Haz clic en “Guardar”.
+2. Con este paso, tu solicitud del certificado quedará radicada en el sistema.
+
+Paso 7. Recibe y gestiona el pago
+* El recibo de pago será enviado a tu correo institucional.
+* Revisa la bandeja de entrada y, si no lo encuentras, verifica las carpetas de spam o correo no deseado.
+* Realiza el pago para que la solicitud continúe su trámite.
+* Una vez realices el pago, el certificado solicitado será enviado a tu correo institucional dentro del tiempo establecido.
+
+Paso 8. Consulta el estado de tu solicitud
+1. Regresa al tablero de servicios para estudiantes.
+2. Ingresa nuevamente a “Solicitudes de servicios académicos”.
+3. Haz clic en la flecha de retorno ubicada en la parte superior izquierda.
+4. Selecciona la opción:
+o “Ver estatus de solicitud de servicio”.
+5. Allí podrás validar el estado de todas tus solicitudes.
+
+Importante
+* El recibo de pago llegará a tu correo institucional una vez transcurridas 24 horas hábiles desde la radicación de la solicitud.
+* Revisa periódicamente el estatus de tu solicitud para conocer su avance.
+* El certificado será emitido conforme a los tiempos establecidos por la institución.
+* Ante cualquier inquietud, puedes solicitar acompañamiento de tu consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_CERTIFICADO_TERMINACION_CURSOS_GENESIS
+==================================================
+==================================================
+DOCUMENT_START
+ID: GUIA_INSCRIPCION_CURSOS_GENESIS
+CATEGORIA: Inscripción académica
+TIPO_INTENCION: Transaccional
+CUANDO_USAR: Cuando el estudiante desea realizar la inscripción de cursos en Génesis+ UNIMINUTO Virtual para un período académico específico.
+PALABRAS_CLAVE: inscripción de cursos, NRC, Génesis+, virtual, plan de estudios, período académico
+PRIORIDAD: Alta
+==================================================
+
+Paso a paso para realizar la inscripción de cursos en Génesis+ UNIMINUTO Virtual
+
+Antes de iniciar
+* La inscripción de cursos es responsabilidad directa del estudiante a partir del segundo período académico.
+* Es indispensable conocer previamente tu plan de estudios para seleccionar correctamente los cursos y créditos correspondientes.
+* Verifica tu modalidad (virtual), nivel académico y tipo de período (semestral o cuatrimestral).
+* Ten a la mano los NRC (Número de Referencia del Curso) antes de realizar la inscripción en Génesis+.
+
+Paso 1. Consulta el plan de estudios
+* Revisa el plan de estudios del programa que estás cursando, compartido por tu consejero de acompañamiento y permanencia.
+
+Paso 2. Identifica los NRC de tus cursos
+1. Consulta los horarios e identifica los NRC disponibles en: https://virtual.uniminuto.edu/estudiantes/inscripcion-de-cursos/
+2. Selecciona el período correspondiente a tu modalidad y nivel académico.
+3. Ubica el programa que estás cursando y el período académico a cursar.
+4. Selecciona el horario que se ajuste a tu disponibilidad e identifica el NRC de cada asignatura o materia, incluyendo las asignaturas transversales.  
+   Ten en cuenta:
+   * PP1: primeras 8 semanas.  
+   * PP2: segundas 8 semanas.  
+   * PPC: período completo (16 semanas).  
+
+Paso 3. Ingresa a la plataforma Génesis
+1. Abre tu navegador de internet.
+2. Ingresa a: https://genesisgo.uniminuto.edu/
+3. Selecciona el perfil de Estudiantes.
+4. Haz clic en “Ingresa a Génesis+”.
+
+Paso 4. Inicia sesión
+1. Ingresa con tus credenciales institucionales.
+2. Digita tu contraseña, realiza el proceso de autenticación y accede a la plataforma.
+
+Paso 5. Accede a la opción de inscripción de cursos
+1. En el tablero de servicios para estudiantes, selecciona Perfil del alumno.
+2. En la columna izquierda, haz clic en la opción Inscripción.
+
+Paso 6. Selecciona el período académico
+1. Selecciona el período de ingreso y matrícula, verificando: modalidad virtual, nivel académico, tipo de período, año y cohorte.
+2. Una vez seleccionado, accederás al área de trabajo para la inscripción de cursos.
+
+Paso 7. Registra los cursos con NRC
+* Ingresa los NRC de cada asignatura previamente identificados en los recuadros correspondientes.
+* Haz clic en “Enviar cambios” para que el sistema registre los cursos.
+* En la parte inferior podrás visualizar el número de créditos y horas inscritas.
+* Debes inscribir el total de NRC del período.
+
+Paso 8. Realiza ajustes si es necesario
+* Si cometiste un error en la digitación o selección:
+  1. Ubica el módulo “Horario Actual”.
+  2. Identifica el NRC que deseas eliminar.
+  3. Despliega el filtro “Acción”.
+  4. Selecciona la opción “Eliminado por la web”.
+  5. Haz clic en “Enviar cambios” para guardar los cambios.
+
+Paso 9. Verifica tu inscripción
+* Regresa al panel principal de Génesis+.
+* Selecciona Perfil del alumno ? Horario del alumno.
+* Verifica:
+  * Nombre del curso.
+  * NRC.
+  * Fechas de inicio y finalización.
+  * Tipo de período (PP1, PP2 o PPC).
+
+Importante
+* Estudiantes nuevos: UNIMINUTO Virtual realiza automáticamente la inscripción del primer período.
+* Desde el segundo período: la inscripción es responsabilidad del estudiante.
+* En procesos de homologación, realiza la inscripción con acompañamiento de tu consejero de Éxito Estudiantil.
+* Los cambios en Génesis+ se sincronizan con el aula virtual cada 48 horas.
+* Los cursos PP1 y PPC se sincronizan en el aula al inicio del período académico.
+* Los cursos PP2 aparecerán en el aula antes del inicio del segundo momento.
+* Para orientación personalizada, ingresa a la sección Salas de apoyo en la página de inscripción de cursos y contacta a un consejero de Éxito Estudiantil.
+
+==================================================
+DOCUMENT_END
+ID: GUIA_INSCRIPCION_CURSOS_GENESIS
+==================================================
+
+
